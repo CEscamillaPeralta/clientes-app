@@ -1,0 +1,12 @@
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Cristian', 'Escamilla', 'alba@proyecto.com', '2020-11-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Fango', 'Pop', 'fango@proyecto.com', '2020-11-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Tarkan', 'Duranga', 'tarkan@proyecto.com', '2020-11-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Mole', 'Vasi', 'mole@proyecto.com', '2020-11-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Baku', 'Luma', 'baku@proyecto.com', '2020-11-03');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Shen', 'Star', 'shen@proyecto.com', '2020-11-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Mara', 'Polka', 'mara@proyecto.com', '2020-11-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Koki', 'Radit', 'koki@proyecto.com', '2020-11-03');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Netero', 'Presi', 'netero@proyecto.com', '2020-11-02');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Buzu', 'Zima', 'buzu@proyecto.com', '2020-11-01');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Nairobi', 'Colcu', 'nairobi@proyecto.com', '2020-11-04');
+INSERT INTO clientes (nombre, apellido, email, create_at) VALUES ('Ganon', 'Bara', 'ganon@proyecto.com', '2020-11-03');
